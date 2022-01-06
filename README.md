@@ -1,2 +1,1 @@
-# WebApp_CryptoSaSa
-CryptoSaSa WebApp
+# WebApp_Crypto-SaSa
